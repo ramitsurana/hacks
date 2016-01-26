@@ -6,16 +6,24 @@
 
 ## What is Baymax ?
 
-Baymax is a simple repo containing variety of different examples 
-on different areas to help you in saving the time of search that we make on searching 
-examples on a particular subject.
+Baymax is a repo containing variety of different hacks
+on different DevOps areas to help you save the time and trouble of finding good hacks.
 
 ## Why is it called "Baymax" ?
 
 Baymax is a health care companion appearing in the movie Big Hero 6.
-[P.S. Must watch movie if you have not seen].The name of the repo is 
-dedicated in his honor.Its main purpose is to help you save time on searching
-good examples of code on variety of different areas.
+[P.S. Good watch movie if you have not seen].The name of the repo is 
+dedicated in his memory.Its main purpose is to help you save time on searching
+good hacks on a variety of different areas like DevOps,Cloud,Languages etc.
+
+## Contributing:
+
+Wish to contribute.Great ! Send me a Pull Request to update
+any interesting hacks you come across.
+
+## License:
+
+It is licensed under [MIT License](https://github.com/ramitsurana/baymax/blob/master/LICENSE)
 
 
 
